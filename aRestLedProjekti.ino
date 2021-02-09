@@ -79,7 +79,7 @@ void loop() {
 // Funktio jota ohjataan API:n kautta
 int ledControl(String command) {
 
-  // Get state from command
+  // Tilan hakukomento
   int state = command.toInt();
 
   digitalWrite(6,state);
