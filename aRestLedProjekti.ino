@@ -9,8 +9,8 @@ int status = WL_IDLE_STATUS;
 aREST rest = aREST();
 
 // WiFi parametrit
-char ssid[] = "Sonera-9619B7";
-char password[] = "E12B7ABAD2";
+char ssid[] = "WiFin nimi";
+char password[] = "WiFin salasana";
 
 #define LISTEN_PORT     80
 
