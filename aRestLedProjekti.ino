@@ -12,6 +12,7 @@ aREST rest = aREST();
 char ssid[] = "WiFin nimi";
 char password[] = "WiFin salasana";
 
+// Kuunneltava portti IP osoitteen juureen, eli ei portti numeroa
 #define LISTEN_PORT     80
 
 // Palvelimen instanssin luominen
